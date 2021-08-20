@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Himanshu Gupta.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Web Development
-- 📫 How to reach me (ghimanshugupta70@gmail.com)
+- 🌱 I’m currently learning Steganography.
+- 📫 How to reach me (ghimanshugupta70@gmail.com).
 
 <!---
 Himanshu-Styles/Himanshu-Styles is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
