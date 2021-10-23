@@ -15,7 +15,7 @@
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Angular CLI for my Semester Project.**
 - 🌱 I’m currently learning **C++, Python & 𝙳𝚊𝚝𝚊 Structure and Algorithm.**
-- 📫 How to reach me: My email-ID [Click Here](ghimanshugupta70@gmail.com).
+- 📫 How to reach me: My email-ID [Click Here](https://ghimanshugupta70@gmail.com).
 - 😄 Pronouns: **Kishu/Debugger/Full of Beans.**
 - ⚡ Fun fact: **People think that I am egoistic but I am always looking for the better version of mine.** ! 
 
