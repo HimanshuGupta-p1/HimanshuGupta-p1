@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Himanshu Gupta.
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Steganography.
+- 🌱 I’m currently learning Data Structure and Algorithm.
 - 📫 How to reach me (ghimanshugupta70@gmail.com).
 
 <!---
