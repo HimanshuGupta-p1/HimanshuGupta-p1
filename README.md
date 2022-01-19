@@ -4,7 +4,7 @@
 
 ## 🚀 About Me
 
-<h3 align="center">I'm an Engineering Student(Computer Science and Engineering) and a Front-End Web Developer. ❤</h3>
+<h3 align="center">I'm an Engineering Student(Computer Science and Engineering), Competitive Programmer and a Front-End Web Developer. ❤</h3>
 
 
 <br/>
@@ -13,7 +13,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Angular CLI for my Semester Project.**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Angular.**
 - 🌱 I’m currently learning **C++, Python & 𝙳𝚊𝚝𝚊 Structure and Algorithm.**
 - 📫 How to reach me: My email-ID [ghimanshugupta70@gmail.com](ghimanshugupta70@gmail.com).
 - 😄 Pronouns: **Kishu/Debugger/Full of Beans.**
