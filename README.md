@@ -1,6 +1,6 @@
 [<img src="https://p4.wallpaperbetter.com/wallpaper/452/719/684/code-programming-php-wallpaper-preview.jpg" width="1000" style="align:center">]()
 
-<h1 align="center"> Hello, I'm HIMANSHU GUPTA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hello, I'm HIMANSHU GUPTA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="50px"> ! </h1>
 
 ## 🚀 About Me
 
