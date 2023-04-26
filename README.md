@@ -70,7 +70,7 @@ goto Repeat;
 
 
 ## 🔗 Links
-[<img height="40" src="https://img.shields.io/badge/my_website-548?style=for-the-badge&logo=ko-fi&logoColor=white">](https://himanshugupta-p1.github.io/HimanshuGupta/)
+[<img height="40" src="https://img.shields.io/badge/my_website-548?style=for-the-badge&logo=ko-fi&logoColor=white">](https://himanshuguptap1.netlify.app)
 [<img height="40" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/himanshu-gupta-28a6ba207)
 [<img height="40" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/invites/contact/?i=15qth0sqh0b53&utm_content=kixv2g6)
  [<img height="40" src="https://img.shields.io/badge/codepen-000.svg?&style=for-the-badge&logo=codepen">](https://codepen.io/Himanshu_Styles)
