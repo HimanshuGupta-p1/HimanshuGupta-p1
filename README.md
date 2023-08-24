@@ -4,20 +4,20 @@
 
 ## 🚀 About Me
 
-<h3 align="center">I'm an Engineering Student(Computer Science and Engineering), Competitive Programmer and a Front-End Web Developer. ❤</h3>
+<h3 align="center">I'm an Engineering Student(Computer Science and Engineering), Competitive Programmer and a Full Stack Web Developer. ❤</h3>
 
 
 <br/>
 <br/>
 <a target="_blank">
-  <img align="right" height="250" width="400" alt="GIF" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif">
+  <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **React.**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **MERN.**
 - 🌱 I’m currently learning **Blockchain and Web3**
 - 📫 How to reach me: My email-ID [ghimanshugupta70@gmail.com](ghimanshugupta70@gmail.com).
 - 😄 Pronouns: **Kishu/Debugger/Full of Beans.**
-- ⚡ Fun fact: **People think that I am egoistic but I am always looking for the better version of mine.** ! 
+- ⚡ Fun fact: **People think that I am egoistic but I am always looking for the better version of myself.** ! 
 
 <br>
 
@@ -43,11 +43,12 @@
 <br>
 
 
-## 🏆 Github Status
-
-<div align="center">
-<img  src="https://github-readme-stats.vercel.app/api?username=HimanshuGupta-p1&show_icons=true&hide_border=true&theme=github_dark" width="100%" align="left" >
-
+<h2><b> 📊 Github Stats ✨ </b></h2>
+<div class="stats" align="center">
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=HimanshuGupta-p1&count_private=true&theme=algolia&border_radius=20)
+  
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimanshuGupta-p1&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuGupta-p1&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
 
 </div>
@@ -59,11 +60,12 @@
 ## MY LIFE
 
 ```c++
-Repeat:
-Eat();
-Sleep();
-Code();
-goto Repeat;
+Life() {
+  Repeat:
+  Eat();
+  Sleep();
+  Code();
+  goto Repeat;
 }
 ```
 
