@@ -44,9 +44,9 @@
 <h2><b> 📊 Github Stats ✨ </b></h2>
 <div class="stats" align="center">
   
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimanshuGupta-p1&count_private=true&show_icons=true&theme=algolia&border_radius=20&hide_border=true) [![GitHub Streak](https://streak-stats.demolab.com?user=HimanshuGupta-p1&theme=algolia&hide_border=true&border_radius=20)](https://git.io/streak-stats) 
+![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HimanshuGupta-p1&count_private=true&show_icons=true&theme=algolia&border_radius=20&hide_border=true) [![GitHub Streak](https://streak-stats.demolab.com?user=HimanshuGupta-p1&theme=algolia&hide_border=true&border_radius=20)](https://git.io/streak-stats)
   
- ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuGupta-p1&layout=compact&show_icons=true&theme=algolia&border_radius=20&hide_border=true)
+ [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuGupta-p1&layout=compact&show_icons=true&theme=algolia&border_radius=20&hide_border=true)](https://github.com/HimanshuGupta-p1/github-readme-stats)
 </div>
 
 <br>
