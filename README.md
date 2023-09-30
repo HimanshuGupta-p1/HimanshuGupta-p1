@@ -19,6 +19,8 @@
 
 <br>
 
+[![An image of @himanshuguptap1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshuguptap1)](https://holopin.io/@himanshuguptap1)
+
 
 ## 👨‍💻 **Languages and Tools**
 
