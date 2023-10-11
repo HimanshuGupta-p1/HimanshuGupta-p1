@@ -82,7 +82,7 @@ Life() {
 </div>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimanshuGupta-p1&label=PROFILE+VIEWS" alt="Himanshu Gupta" height="20" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=HimanshuGupta-p1&label=PROFILE+VIEWS" alt="Himanshu Gupta" height="20" > </p>
 
 ###  If you like❤️ my repository, hit the ⭐. 
 
