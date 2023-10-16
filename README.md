@@ -12,7 +12,7 @@
 </a>
 
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **MERN.**
-- 🌱 I’m currently learning **Blockchain and Web3**
+- 🌱 I’m currently learning **Solidity**
 - 📫 How to reach me: My email-ID [ghimanshugupta70@gmail.com](ghimanshugupta70@gmail.com).
 - 😄 Pronouns: **He/him**
 - ⚡ Fun fact: **People think that I am egoistic but I am always looking for the better version of myself.** ! 
