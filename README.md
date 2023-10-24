@@ -1,5 +1,8 @@
 <h1 align="center"> Hello, I'm HIMANSHU GUPTA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"> ! </h1>
 
+![HIMANSHU (2)](https://github.com/HimanshuGupta-p1/HimanshuGupta-p1/assets/87177106/85c1535e-f3e8-4b64-aff9-61e80b8fdcd3)
+
+
 ## 🚀 About Me
 
 <h3 align="center">I'm an Engineering Student(Computer Science and Engineering), Competitive Programmer and a Full Stack Web Developer. ❤</h3>
