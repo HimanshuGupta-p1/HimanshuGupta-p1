@@ -14,11 +14,11 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **MERN.**
-- 🌱 I’m currently learning **Solidity**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Next, React, MongoDB, PostgreSQL, Express, FastAPI, Redux.**
+- 🌱 I’m currently learning **Docker**
 - 📫 How to reach me: My email-ID [ghimanshugupta70@gmail.com](ghimanshugupta70@gmail.com).
 - 😄 Pronouns: **He/him**
-- ⚡ Fun fact: **People think that I am egoistic but I am always looking for the better version of myself.** ! 
+- ⚡ Fun fact: **People think I am egoistic but I am always looking for a better version of myself.** ! 
 
 <br>
 
