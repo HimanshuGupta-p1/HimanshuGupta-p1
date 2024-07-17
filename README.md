@@ -1,6 +1,6 @@
 <h1 align="center"> Hello, I'm HIMANSHU GUPTA <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="50px" height="50px"> ! </h1>
 
-![HIMANSHU (2)](https://github.com/HimanshuGupta-p1/HimanshuGupta-p1/assets/87177106/85c1535e-f3e8-4b64-aff9-61e80b8fdcd3)
+![HIMANSHU (4)](https://github.com/user-attachments/assets/73016cf9-226f-4a22-b52c-e430ff6939ab)
 
 
 ## 🚀 About Me
@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning **Docker**
 - 📫 How to reach me: My email-ID [ghimanshugupta70@gmail.com](ghimanshugupta70@gmail.com).
 - 😄 Pronouns: **He/him**
-- ⚡ Fun fact: **People think I am egoistic but I am always looking for a better version of myself.** ! 
+- ⚡ Fun fact: **I throw more combos than Rubik's Cube** ! 
 
 <br>
 
