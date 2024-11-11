@@ -14,7 +14,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Next, React, MongoDB, PostgreSQL, Express, FastAPI, Redux.**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Spring Boot, Mockito, Karate, RESTAPIs, Java.**
 - 🌱 I’m currently learning **Docker**
 - 📫 How to reach me: My email-ID [ghimanshugupta70@gmail.com](ghimanshugupta70@gmail.com).
 - 😄 Pronouns: **He/him**
